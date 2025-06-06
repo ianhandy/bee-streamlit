@@ -1,0 +1,31 @@
+.mapboxgl-map {
+    border: 10px solid rgb(38,39,48); /* Matches sidebar background */
+    padding: 0px;
+    border-radius: 10px;
+    offset: 0px 0px 0px rgba(0, 0, 0, 0.5);
+}
+
+#welcome-to-massasoit-stem-research {
+    border-radius: 10px;
+}
+
+.stAppHeader.st-emotion-cache-1ihwvbb.e14ksaui0 {
+    background-color: rgb(38,39,48); /* Matches sidebar background */
+}
+
+.stColumn.st-emotion-cache-1li3bs2.e1lln2w82.stHorizontalBlock.st-emotion-cache-ocqkz7.e1lln2w80.st-emotion-cache-13o7eu2.e1lln2w84 {
+    align-content: space-around;
+    justify-content: space-around;
+}
+.st-emotion-cache-7czcpc.evl31sl1 {
+    clip-path: circle();
+    size: 25vw;
+}
+
+.stColumn.st-emotion-cache-1li3bs2.e1lln2w82 {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-items: stretch;
+}
